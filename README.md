@@ -208,5 +208,5 @@
 ## 🐍 Fun Touch
 
 <p align="center">
-  <img src="https://github.com/iliyadindar/iliyadindar/raw/output/github-contribution-grid-sn>
+  <img src="https://github.com/iliyadindar/iliyadindar/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>

@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/iliyadindar">
-    <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=Computer+Engineer+%7C+Bug+Hunter;Python+%7C+TypeScript+%7C+C%2B%2B;OWASP+%7C+CTF+%7C+Penetration+Testing;Always+Building+Something+Cool+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=Computer+Engineer+%7C+Bug+Hunter;Python+%7C+TypeScript+%7C+PHP+%7C+C%2B%2B;OWASP+%7C+CTF+%7C+Penetration+Testing;Always+Building+Something+Cool+🚀" />
   </a>
 </p>
 
@@ -18,6 +18,18 @@
 - 🧠 Interested in **AI, NLP & Quantum Computing** — learning through personal projects
 - 🌍 Trilingual: English · Persian · Turkish
 - 🎯 Building scalable systems, hunting vulnerabilities, and shipping tools that solve real problems
+
+---
+
+## 💼 What I Can Build For You
+
+| Service | Details |
+|---------|---------|
+| 🤖 **Telegram Bots** | Custom bots for automation, games, communities & business — 20+ delivered, 12K+ users served |
+| 🌐 **Full-Stack Web Apps** | Production apps with Next.js, Flask/FastAPI, MySQL/PostgreSQL, and admin panels |
+| 🔐 **Security Audits** | Junior penetration testing, OWASP Top 10 assessment, vulnerability reporting |
+
+> 📬 Reach out via **[Telegram](https://t.me/tellmeninja)** or **[Email](mailto:ilia.dindar@gmail.com)** to discuss a project.
 
 ---
 
@@ -37,6 +49,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>
       <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="55"/><br/>
+      <sub><b>PHP</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br/>
@@ -147,6 +163,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🌐 [**IliyaMed**](https://lab.iliyadindar.site) | Full-stack social platform with admin panel, WebSocket terminal, and REST API — live in production | `PHP` `Next.js` `Flask` `MySQL` `WebSocket` |
 | 🤖 [**TNT-AI**](https://github.com/iliyadindar/tnt-ai) | Real-time speech transcription & translation powered by Whisper AI | `Whisper` `FastAPI` `React Native` `Docker` |
 | 🔌 [**PyRoxi**](https://github.com/iliyadindar/pyroxi) | High-performance async proxy library — published on PyPI | `Python` `AsyncIO` `PyPI` |
 | 🕹 [**Strategic GameBot**](https://github.com/iliyadindar/Telegram-Strategic-GameBot) | Multiplayer war-simulation Telegram bot | `Python` `Telegram API` `Game Design` |
@@ -159,10 +176,10 @@
 
 - ⭐ **GitHub Pro** — Starstruck · Pull Shark ×2 · Quickdraw
 - 📦 Published Python packages on **PyPI**
-- 🤖 Delivered **20+ Telegram bots** to real users
-- 🌐 Deployed production backends on **cloud/VPS** with Docker
+- 🤖 Delivered **20+ Telegram bots** — including one with **12K+ active users**
+- 🌐 **Production app live** — full-stack social platform at lab.iliyadindar.site
 - 🔐 Active **CTF player** — DOM XSS, filter bypasses, JS URI exploits
-- 🧠 Self-studying **AI, NLP & Quantum Computing** through personal projects
+- ☁️ Deployed production backends on **cloud/VPS** with Docker & Nginx
 
 ---
 
@@ -170,9 +187,10 @@
 
 <p align="center">
   <a href="https://iliyadindar.site"><img src="https://img.shields.io/badge/Website-06080c?style=for-the-badge&logo=firefox-browser&logoColor=4ade80"/></a>
+  <a href="mailto:ilia.dindar@gmail.com"><img src="https://img.shields.io/badge/Email-06080c?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
   <a href="https://t.me/tellmeninja"><img src="https://img.shields.io/badge/Telegram-06080c?style=for-the-badge&logo=telegram&logoColor=22d3ee"/></a>
   <a href="https://linkedin.com/in/iliyadindar"><img src="https://img.shields.io/badge/LinkedIn-06080c?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
-  <a href="https://orcid.org/0009-0000-2813-9539"><img src="https://img.shields.io/badge/ORCID-06080c?style=for-the-badge&logo=orcid&logoColor=a6ce39"/></a>
+  <a href="https://blog.iliyadindar.site"><img src="https://img.shields.io/badge/Blog-06080c?style=for-the-badge&logo=hashnode&logoColor=a78bfa"/></a>
 </p>
 
 ---

@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/bettercallninja">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Python+%7C+AI+%7C+Telegram+Bots;Networking+%7C+Game+%7C+Backend;Always+Building+Something+Cool+🚀" />
+  <a href="https://github.com/iliyadindar">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Python+%7C+AI+%7C+Telegram+Bots;Networking+%7C+Game+%7C+Backend;Penetration+Tester+%7C+Junior;Always+Building+Something+Cool+🚀" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 
 ## 🥷 About Me
 - 🎓 **Computer Engineering** @ Nişantaşı University (Istanbul)  
-- 🧠 Researcher in **AI, NLP & Quantum-Inspired Neural Architectures**  
+- 🧠 Researcher in **AI, NLP & Quantum-Inspired Neural Architectures**
+- 🔐 **Penetration Tester** (Junior) | Bug Bounty Hunter 
 - 🌍 Trilingual: English · Persian · Turkish  
 - 🎯 Mission: Crafting scalable systems & AI tools with global impact  
 

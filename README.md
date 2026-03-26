@@ -29,7 +29,7 @@
 | 🌐 **Full-Stack Web Apps** | Production apps with Next.js, Flask/FastAPI, MySQL/PostgreSQL, and admin panels |
 | 🔐 **Security Audits** | Junior penetration testing, OWASP Top 10 assessment, vulnerability reporting |
 
-> 📬 Reach out via **[Telegram](https://t.me/tellmeninja)** or **[Email](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c2520252d62282522282d3e0c2b212d2520622f2321">[email&#160;protected]</a>)** to discuss a project.
+> 📬 Reach out via **[Telegram](https://t.me/tellmeninja)** or **[Email](mailto:ilia.dindar@gmail.com)** to discuss a project.
 
 ---
 
@@ -133,17 +133,11 @@
       <sub><b>Git</b></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=caddy&theme=dark" width="55"/><br/>
-      <sub><b>Caddy</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=apache&theme=dark" width="55"/><br/>
-      <sub><b>Apache</b></sub>
-    </td>
-  </tr>
 </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
 
 ### 🧠 AI / ML
 <table align="center">
@@ -197,7 +191,7 @@
 
 <p align="center">
   <a href="https://iliyadindar.site"><img src="https://img.shields.io/badge/Website-06080c?style=for-the-badge&logo=firefox-browser&logoColor=4ade80"/></a>
-  <a href="/cdn-cgi/l/email-protection#4821242129662c21262c293a082f25292124662b2725"><img src="https://img.shields.io/badge/Email-06080c?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
+  <a href="mailto:ilia.dindar@gmail.com"><img src="https://img.shields.io/badge/Email-06080c?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
   <a href="https://t.me/tellmeninja"><img src="https://img.shields.io/badge/Telegram-06080c?style=for-the-badge&logo=telegram&logoColor=22d3ee"/></a>
   <a href="https://linkedin.com/in/iliyadindar"><img src="https://img.shields.io/badge/LinkedIn-06080c?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
   <a href="https://blog.iliyadindar.site"><img src="https://img.shields.io/badge/Blog-06080c?style=for-the-badge&logo=hashnode&logoColor=a78bfa"/></a>
@@ -209,4 +203,10 @@
 
 <p align="center">
   <img src="https://github.com/iliyadindar/iliyadindar/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+<p align="center">
+  <i>Building tools that solve real problems — one bot, one proxy, one experiment at a time.</i>
 </p>

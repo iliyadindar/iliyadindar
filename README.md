@@ -194,6 +194,7 @@
   <a href="mailto:ilia.dindar@gmail.com"><img src="https://img.shields.io/badge/Email-06080c?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
   <a href="https://t.me/tellmeninja"><img src="https://img.shields.io/badge/Telegram-06080c?style=for-the-badge&logo=telegram&logoColor=22d3ee"/></a>
   <a href="https://linkedin.com/in/iliyadindar"><img src="https://img.shields.io/badge/LinkedIn-06080c?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
+  <a href="https://x.com/iliyadindar"><img src="https://img.shields.io/badge/X-06080c?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://blog.iliyadindar.site"><img src="https://img.shields.io/badge/Blog-06080c?style=for-the-badge&logo=hashnode&logoColor=a78bfa"/></a>
 </p>
 

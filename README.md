@@ -13,7 +13,7 @@
 
 ## 🥷 About Me
 
-- 🎓 **Computer Engineering** (2nd Year) @ Nişantaşı University, Istanbul
+- 🎓 **Computer Engineering** (3rd Year) @ Nişantaşı University, Istanbul
 - 🔐 **Penetration Tester** (Junior) · Bug Bounty Hunter · Studying OWASP Top 10
 - 🧠 Interested in **AI, NLP & Quantum Computing** — learning through personal projects
 - 🌍 Trilingual: English · Persian · Turkish

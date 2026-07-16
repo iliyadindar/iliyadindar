@@ -172,7 +172,7 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
-<p align="center"><sub><b>Hands-on OWASP labs:</b> SSRF · SSTI · XXE · CORS · CSPT · Broken Access Control · Command Injection · RCE · OAuth / SSO · Insecure Deserialization</sub></p>
+<p align="center"><sub><b>Hands-on OWASP labs:</b> Security Misconfiguration · SQL Injection · Command Injection · RCE · SSTI · Open Redirect · CORS · XSS · CSRF · CSTI · CSPT · SSRF · Broken Access Control · API Security · Authentication · OAuth · Cryptographic Failures · SSO · Insecure Design · Cache Vulnerabilities · XXE · Insecure Deserialization</sub></p>
 
 ---
 

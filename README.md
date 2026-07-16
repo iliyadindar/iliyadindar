@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/iliyadindar">
-    <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=Computer+Engineer+%7C+Bug+Hunter;Python+%7C+TypeScript+%7C+PHP+%7C+C%2B%2B;OWASP+%7C+CTF+%7C+Penetration+Testing;Always+Building+Something+Cool+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&center=true&vCenter=true&lines=AI+Agent+Developer+%7C+Security+Researcher;Multi-Agent+LLM+Pipelines+%7C+RAG+%7C+Whisper;OWASP+%7C+CTF+%7C+HTTP%2F2+Race+Conditions;Building+AI+Systems+%26+Hunting+What+Breaks+Them+🚀" />
   </a>
 </p>
 
@@ -14,10 +14,10 @@
 ## 🥷 About Me
 
 - 🎓 **Computer Engineering** (3rd Year) @ Nişantaşı University, Istanbul
-- 🔐 **Penetration Tester** (Junior) · Bug Bounty Hunter · Studying OWASP Top 10
-- 🧠 Interested in **AI, NLP & Quantum Computing** — learning through personal projects
+- 🤖 **AI Agent Developer** — multi-agent LLM pipelines, RAG & AI-safety layers on NVIDIA NIM / Azure AI Foundry
+- 🔐 **Penetration Tester** (Junior) · Bug Bounty · OWASP Top 10 · CTF player & self-hosted CTF platform
 - 🌍 Trilingual: English · Persian · Turkish
-- 🎯 Building scalable systems, hunting vulnerabilities, and shipping tools that solve real problems
+- 🎯 Building AI systems & scalable apps — and hunting whatever breaks them
 
 ---
 
@@ -57,6 +57,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br/>
       <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" width="55"/><br/>
+      <sub><b>Go</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/><br/>
@@ -152,6 +156,14 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ### 🔐 Security
 <p align="center">
@@ -167,6 +179,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| ⚖️ [**Iranian Legal House**](https://iliyadindar.site) | AI-native cross-border legal platform — AI Counsel assistant + pgvector RAG on NVIDIA NIM *(in dev)* | `FastAPI` `NVIDIA NIM` `Next.js 16` `pgvector` |
+| 🚩 [**shellstate.com**](https://shellstate.com) | Production Capture-The-Flag platform I built & self-host — Dockerized behind Traefik | `Next.js` `Docker` `Traefik` `PostgreSQL` `Redis` |
+| ⚡ [**HTTP/2 Race Exploit**](https://github.com/iliyadindar/http2-race-singlepacket) | Go tool exploiting HTTP/2 single-packet race conditions — CTF & security research | `Go` `HTTP/2` `Race Condition` |
 | 🌐 [**IliyaMed**](https://lab.iliyadindar.site) | Full-stack social platform with admin panel, WebSocket terminal, and REST API — live in production | `PHP` `Next.js` `Flask` `MySQL` `WebSocket` |
 | 🤖 [**TNT-AI**](https://github.com/iliyadindar/tnt-ai) | Real-time speech transcription & translation powered by Whisper AI | `Whisper` `FastAPI` `React Native` `Docker` |
 | 🔌 [**PyRoxi**](https://github.com/iliyadindar/pyroxi) | High-performance async proxy library — published on PyPI | `Python` `AsyncIO` `PyPI` |
@@ -176,14 +191,16 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
+- 🥈 **2nd Place** — Nişantaşı University Coding Competition (2025)
+- 🧠 **Microsoft AI Innovators '26** — selected for the summer program (Azure AI Foundry Local)
+- 🎓 **Machine Learning Specialization** — DeepLearning.AI & Stanford University (Coursera, 2025)
+- 🔐 **Cybersecurity — Synergy Science '26** (Synergy Maze AI, 2026)
+- 🛡️ **Responsible Disclosure** — reported a critical vulnerability in the university OBIS portal (confirmed & fixed)
 - ⭐ **GitHub Pro** — Starstruck · Pull Shark ×2 · Quickdraw
-- 📦 Published Python packages on **PyPI**
 - 🤖 Delivered **20+ Telegram bots** — including one with **12K+ active users**
-- 🌐 **Production app live** — full-stack social platform at lab.iliyadindar.site
-- 🔐 Active **CTF player** — DOM XSS, filter bypasses, JS URI exploits
-- ☁️ Deployed production backends on **cloud/VPS** with Docker & Nginx
+- 📦 Published Python packages on **PyPI** · production apps self-hosted on cloud VPS
 
 ---
 

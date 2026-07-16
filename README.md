@@ -13,7 +13,7 @@
 
 ## 🥷 About Me
 
-- 🎓 **Computer Engineering** (3rd Year) @ Nişantaşı University, Istanbul
+- 🎓 **Computer Engineering** (3rd Year · 2024–2028) @ Nişantaşı University, Istanbul
 - 🤖 **AI Agent Developer** — multi-agent LLM pipelines, RAG & AI-safety layers on NVIDIA NIM / Azure AI Foundry
 - 🔐 **Penetration Tester** (Junior) · Bug Bounty · OWASP Top 10 · CTF player & self-hosted CTF platform
 - 🌍 Trilingual: English · Persian · Turkish
@@ -183,6 +183,7 @@
 | ⚖️ [**Iranian Legal House**](https://iliyadindar.site) | AI-native cross-border legal platform — AI Counsel assistant + pgvector RAG on NVIDIA NIM *(in dev)* | `FastAPI` `NVIDIA NIM` `Next.js 16` `pgvector` |
 | 🚩 [**shellstate.com**](https://shellstate.com) | Production Capture-The-Flag platform I built & self-host — Dockerized behind Traefik | `Next.js` `Docker` `Traefik` `PostgreSQL` `Redis` |
 | ⚡ [**HTTP/2 Race Exploit**](https://github.com/iliyadindar/http2-race-singlepacket) | Go tool exploiting HTTP/2 single-packet race conditions — CTF & security research | `Go` `HTTP/2` `Race Condition` |
+| 🧩 **Multi-Agent AI Pipeline** *(NDA)* | Production, RAG-grounded LLM content pipeline for EdTech — generator → checker → escalation, with an AI-safety screening layer | `Multi-Agent` `RAG` `NVIDIA NIM` `AI Safety` |
 | 🌐 [**IliyaMed**](https://lab.iliyadindar.site) | Full-stack social platform with admin panel, WebSocket terminal, and REST API — live in production | `PHP` `Next.js` `Flask` `MySQL` `WebSocket` |
 | 🤖 [**TNT-AI**](https://github.com/iliyadindar/tnt-ai) | Real-time speech transcription & translation powered by Whisper AI | `Whisper` `FastAPI` `React Native` `Docker` |
 | 🔌 [**PyRoxi**](https://github.com/iliyadindar/pyroxi) | High-performance async proxy library — published on PyPI | `Python` `AsyncIO` `PyPI` |
@@ -195,9 +196,10 @@
 ## 🏆 Achievements & Certifications
 
 - 🥈 **2nd Place** — Nişantaşı University Coding Competition (2025)
-- 🧠 **Microsoft AI Innovators '26** — selected for the summer program (Azure AI Foundry Local)
+- 🧠 **Microsoft AI Innovators '26** — selected for the summer internship program (Azure AI Foundry Local)
 - 🎓 **Machine Learning Specialization** — DeepLearning.AI & Stanford University (Coursera, 2025)
 - 🔐 **Cybersecurity — Synergy Science '26** (Synergy Maze AI, 2026)
+- 🎟 **18th IT Summit** — participation certificate, İTÜ (2025)
 - 🛡️ **Responsible Disclosure** — reported a critical vulnerability in the university OBIS portal (confirmed & fixed)
 - ⭐ **GitHub Pro** — Starstruck · Pull Shark ×2 · Quickdraw
 - 🤖 Delivered **20+ Telegram bots** — including one with **12K+ active users**

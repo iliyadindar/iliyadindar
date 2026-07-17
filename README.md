@@ -59,15 +59,14 @@
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go&theme=dark" width="55"/><br/>
-      <sub><b>Go</b></sub>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/><br/>
       <sub><b>Bash</b></sub>
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
+</p>
 
 ### ⚙️ Frameworks & Backend
 <table align="center">
@@ -94,17 +93,22 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack_Start-EF4444?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oRPC-6366F1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
+</p>
 
 ### 🗄️ Databases & Cache
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/><br/>
       <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>
+      <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br/>
@@ -139,8 +143,8 @@
   </tr>
 </table>
 <p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare_Workers_&_Durable_Objects-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ### 🧠 AI / ML
@@ -150,19 +154,16 @@
       <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/><br/>
       <sub><b>PyTorch</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
   </tr>
 </table>
 <p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Agent_Orchestration-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Model_Pipelines-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry_Local-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ### 🔐 Security
@@ -172,7 +173,7 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/CTF-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
-<p align="center"><sub><b>Hands-on OWASP labs:</b> Security Misconfiguration · SQL Injection · Command Injection · RCE · SSTI · Open Redirect · CORS · XSS · CSRF · CSTI · CSPT · SSRF · Broken Access Control · API Security · Authentication · OAuth · Cryptographic Failures · SSO · Insecure Design · Cache Vulnerabilities · XXE · Insecure Deserialization</sub></p>
+<p align="center"><sub><b>Hands-on OWASP labs:</b> Security Misconfiguration · SQL Injection · Command Injection · RCE · SSTI · XSS · CSRF · CORS · SSRF · XXE · Open Redirect · CSTI · CSPT · Broken Access Control · API Security · Authentication · OAuth/SSO · Cryptographic Failures · Insecure Design · Insecure Deserialization · Cache Vulnerabilities</sub></p>
 
 ---
 
@@ -201,7 +202,7 @@
 - 🔐 **Cybersecurity — Synergy Science '26** (Synergy Maze AI, 2026)
 - 🎟 **18th IT Summit** — participation certificate, İTÜ (2025)
 - 🛡️ **Responsible Disclosure** — reported a critical vulnerability in the university OBIS portal (confirmed & fixed)
-- ⭐ **GitHub Pro** — Starstruck · Pull Shark ×2 · Quickdraw
+- ⭐ **GitHub Pro** — Starstruck · Pull Shark ×2 · Pair Extraordinaire · YOLO · Quickdraw
 - 🤖 Delivered **20+ Telegram bots** — including one with **12K+ active users**
 - 📦 Published Python packages on **PyPI** · production apps self-hosted on cloud VPS
 
